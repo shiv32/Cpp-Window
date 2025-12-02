@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# CMake
+out/
+
+# Build files
+*.exe
+*.obj
+*.pdb
+*.idb
+*.ipch
+*.tlog
+*.log
+*.ilk
+
+# User files
+*.cache
+*.opendb
